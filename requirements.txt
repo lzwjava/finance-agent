@@ -1,0 +1,4 @@
+llama-index>=0.14
+llama-index-llms-openai
+yfinance
+python-dotenv
